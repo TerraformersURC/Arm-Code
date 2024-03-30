@@ -1,0 +1,3 @@
+[console_scripts]
+kinematics_node = arm_kinematics.kinematics:main
+
